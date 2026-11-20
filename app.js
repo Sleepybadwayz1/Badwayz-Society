@@ -96,7 +96,7 @@
 
   // If a Printify mockup ever fails to load, show the brand crest instead of a broken image
   $('#productGrid').addEventListener('error', function (e) {
-    if (e.target.tagName === 'IMG' && !e.target.classList.contains('is-fallback')) { e.target.src = 'images/skull-crest.webp'; e.target.classList.add('is-fallback'); }
+    if (e.target.tagName === 'IMG' && !e.target.classList.contains('is-fallback')) { e.target.src = 'skull-crest.webp'; e.target.classList.add('is-fallback'); }
   }, true);
 
   setTab(active);
