@@ -1,6 +1,6 @@
 # Badwayz Society — Official Site
 
-Showroom site for Sleepy Badways' brand. **Printify is the cash register**: every Buy button opens the product on https://badwayzsociety.printify.me, where Printify takes payment, prints, and ships.
+Showroom site for Sleepybadwayz' brand. **Printify is the cash register**: every Buy button opens the product on https://badwayzsociety.printify.me, where Printify takes payment, prints, and ships.
 
 ## Files
 | File | What it does |

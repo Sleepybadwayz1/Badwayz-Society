@@ -26,7 +26,7 @@ const SITE_CONFIG = {
 
   links: {
     store: 'https://badwayzsociety.printify.me',
-    instagram: 'https://instagram.com/badwayssociety',
+    instagram: 'https://instagram.com/badwayzsociety',
     linktree: 'https://linktr.ee/sleepybadwayz',
     appleMusic: 'https://music.apple.com/ng/song/not-kidding/1760086171',
     songstats: 'https://songstats.com/artist/vyw71c94/sleepybadwayz',
